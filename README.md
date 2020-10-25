@@ -12,4 +12,4 @@ Complete the quiz the best you can, and be ready to enter your initials at the e
 Once you enter your initials, they will be saved and added to the high score board.
 
 https://github.com/meredith224/Code-Quiz/
-https://github.com/meredith224/Code-Quiz/code_quiz.html
+https://github.com/meredith224/Code-Quiz/code_quiz1.html
